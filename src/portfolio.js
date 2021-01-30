@@ -176,9 +176,9 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Full Stack Developer',
-      company: 'DhanuInfotech',
-      companylogo: require('./assets/images/dhanu.png'),
+      role: 'Software Developer',
+      company: 'Dhanu Infotech',
+      companylogo: require('./assets/images/dhanu3.png'),
       date: 'Dec 2020 – Present',
       desc:
         'Working as a full-stack developer right now.',
@@ -247,7 +247,7 @@ const achievementSection = {
       title: 'E-Commerce Web Application',
       subtitle:
         'Developed an E-Commerce website built on React for the front-end and Node.js on the back-end.',
-      image: require('./assets/images/codeInLogo.webp'),
+      image: require('./assets/images/ecom3.png'),
       footerLink: [
         {
           name: 'Website',
@@ -277,7 +277,7 @@ const achievementSection = {
     {
       title: 'N-Queens Problem',
       subtitle: 'Solving and Analysing the traditional N-Queens Problem using three AI algorithms.',
-      image: require('./assets/images/pwaLogo.webp'),
+      image: require('./assets/images/ai5.png'),
       footerLink: [
         {
           name: 'Github',
