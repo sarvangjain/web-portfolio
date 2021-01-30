@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b1e6e88fc47863d4f8192d040fac9be",
+    "revision": "be5c107d4b8de93b5ca3af7414adea87",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "16b25db3f6de576baa24",
+    "revision": "f0b46ce7d7527c41ea72",
     "url": "/static/css/main.fffa025b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.47d0ece2.chunk.js"
   },
   {
-    "revision": "16b25db3f6de576baa24",
-    "url": "/static/js/main.a836fcac.chunk.js"
+    "revision": "f0b46ce7d7527c41ea72",
+    "url": "/static/js/main.b28d2bd1.chunk.js"
   },
   {
     "revision": "fa7bf80c0e0cf8784c3d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
+    "revision": "affe16cf3e3542b3a215ce659944900b",
+    "url": "/static/media/ai5.affe16cf.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -64,8 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "e8cb562202e8d0fe8263ac289b59a961",
-    "url": "/static/media/dhanu.e8cb5622.png"
+    "revision": "6bbb347fdd7aee52f468986e1a1dd8cf",
+    "url": "/static/media/dhanu3.6bbb347f.png"
+  },
+  {
+    "revision": "37d1f3ca6af35a2f7e86c45bd530fca3",
+    "url": "/static/media/ecom3.37d1f3ca.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -78,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51de15e619035afb1337cc45d3944d7f",
     "url": "/static/media/nms.51de15e6.png"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
